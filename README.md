@@ -1,7 +1,3 @@
-Here's a **README.md** template for your **House Price Estimator** project. It provides clear documentation of what the project does, how to set it up, and how to run it. The format follows standard practices used in GitHub repositories and other collaborative environments.
-
----
-
 # House Price Estimator
 
 A machine learning regression model to predict house prices based on various features such as location, area, number of bedrooms, and additional amenities. This project also includes data visualization to show the distribution of house prices and feature importance.
